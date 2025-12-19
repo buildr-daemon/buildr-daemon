@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.amrt.me/" target="_blank">Amrit Prakash</a> <img
-src="https://github.com/buildr-daemon/buildr-daemon/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" height="32" /></h1>
 
 <a href="https://www.linkedin.com/in/amrit-prakash-b544ab222/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
