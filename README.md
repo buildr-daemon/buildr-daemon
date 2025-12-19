@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.amrt.me/" target="_blank">Amrit Prakash</a> <img
 src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" height="32" /></h1>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/amrit-prakash-b544ab222/">
   <img alt="amrit's LinkdeIN" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/linkedin.png" />
 </a>
@@ -13,6 +14,8 @@ src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" hei
 <a href="https://github.com/solo-daemon">
     <img alt="amrit's previous gh" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/previousgh.jpg" />
 </a>
+</p>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer from India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30">
