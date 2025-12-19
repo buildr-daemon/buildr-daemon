@@ -6,13 +6,13 @@ src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" hei
   <img alt="amrit's LinkdeIN" height="40" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/h4pw6k7o6xdycexnky4jccn10?si=a9cf5a79e7b04255">
-  <img alt="amrit's Spotify" height="40" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/spotify.png" />
+  <img alt="amrit's Spotify" height="42" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/spotify.png" />
 </a>
 <a href="https://x.com/amr1t_prakash">
-    <img alt="amrit's X" height="40" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/x.png" />
+    <img alt="amrit's X" height="44" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/x.png" />
 </a>
 <a href="https://github.com/solo-daemon">
-    <img alt="amrit's previous 40" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/previousgh.png" />
+    <img alt="amrit's previous 40" height="42" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/previousgh.png" />
 </a>
 </p>
 
