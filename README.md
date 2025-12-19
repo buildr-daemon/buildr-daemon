@@ -2,23 +2,24 @@
 src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" height="32" /></h1>
 
 <a href="https://www.linkedin.com/in/amrit-prakash-b544ab222/">
-  <img alt="amrit's LinkdeIN" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/linkedin.png" />
+  <img alt="amrit's LinkdeIN" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/h4pw6k7o6xdycexnky4jccn10?si=a9cf5a79e7b04255">
-  <img alt="amrit's Spotify" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/spotify.png" />
+  <img alt="amrit's Spotify" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/spotify.png" />
 </a>
 <a href="https://x.com/amr1t_prakash">
-    <img alt="amrit's X" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/x.png" />
+    <img alt="amrit's X" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/x.png" />
 </a>
 <a href="https://github.com/solo-daemon">
-    <img alt="amrit's previous gh" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/previousgh.jpg" />
+    <img alt="amrit's previous gh" height="28" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/previousgh.jpg" />
 </a>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Software Engineer from India 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30">
+<br>
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
+- 📖 My favourite books are **
 - 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
