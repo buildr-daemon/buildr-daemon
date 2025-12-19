@@ -26,7 +26,7 @@ src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" hei
 - 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Spanish conquered africa because of horses not manpower.
-- 🧑‍💻 Tech I have worked with, not necessarily expert in these :
+- 🧑‍💻 Tech I have worked with:
 
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
