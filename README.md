@@ -2,16 +2,16 @@
 src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" height="32" /></h1>
 
 <a href="https://www.linkedin.com/in/amrit-prakash-b544ab222/">
-  <img alt="amrit's LinkdeIN" width="50px" src="https://github.com/buildr-daemon/blob/main/images/linkedin.png" />
+  <img alt="amrit's LinkdeIN" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/h4pw6k7o6xdycexnky4jccn10?si=a9cf5a79e7b04255">
-  <img alt="amrit's Spotify" width="50px" src="https://github.com/buildr-daemon/blob/main/images/spotify.png" />
+  <img alt="amrit's Spotify" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/spotify.png" />
 </a>
 <a href="https://x.com/amr1t_prakash">
-    <img alt="amrit's X" width="50px" src="https://github.com/buildr-daemon/blob/main/images/x.png" />
+    <img alt="amrit's X" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/x.png" />
 </a>
 <a href="https://github.com/solo-daemon">
-    <img alt="amrit's previous gh" width="50px" src="https://github.com/buildr-daemon/blob/main/images/previousgh.jpg" />
+    <img alt="amrit's previous gh" width="50px" src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/previousgh.jpg" />
 </a>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
