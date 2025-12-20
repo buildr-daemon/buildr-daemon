@@ -16,8 +16,8 @@ src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" hei
 </a>
 </p>
 
-### [My Resume](https://drive.google.com/file/d/16QbakgoOtSUODoNq8VSM36B6on5yeFae/view?usp=drivesdk)
-
+### [My Resume](https://drive.google.com/file/d/16QbakgoOtSUODoNq8VSM36B6on5yeFae/view?usp=drivesdk) : I am looking for  job :),
+## don't judge me based on this profile , previously I was : [solo-daemon](https://github.com/solo-daemon) :)
 ### <img src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer from India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30">
