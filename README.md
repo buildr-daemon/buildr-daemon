@@ -18,5 +18,5 @@ src="https://github.com/buildr-daemon/buildr-daemon/blob/main/images/Hi.gif" hei
 
 <h3>Projects: </h3>
 
-Blockchain : [rbitcoin](https://github.com/buildr-daemon/rbitcoin) -> Implementation of bitcoin whitepaper.
+- [rbitcoin](https://github.com/buildr-daemon/rbitcoin) : Implementation of bitcoin whitepaper.
 
